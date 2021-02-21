@@ -6,3 +6,5 @@ Olá bem vindo ao meu livro de receitas :wave:
 - Pavê
 - Bolo de Laranja
 - Bolo de Chocolate com morangos
+- Bolo de cenoura ***
+- 
